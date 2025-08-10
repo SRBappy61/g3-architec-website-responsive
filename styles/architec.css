@@ -135,7 +135,9 @@ main > section{
 
 .feature-card .feature-title{
     font-weight: 600;
-    font-size: 1.25rem;   
+    font-size: 1.25rem; 
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 /* facts-related */
