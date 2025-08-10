@@ -116,6 +116,11 @@ main > section{
 }
 
 /* feature-section-related */
+
+.features{
+    gap: 140px;
+}
+
 #feature-section-title{
     border-left: 5px solid #FF900E;
     padding-left: 21px;
